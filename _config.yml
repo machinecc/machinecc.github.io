@@ -14,13 +14,13 @@ author:
 
 # 站点信息
 title: Xin 
-description: 闫肃的博客
+description: 苗欣的博客
 url: http://machinecc.github.io
 rss_url: /pages/atom.xml
 
 # avatar头像及Favicon
 avatar: https://raw.githubusercontent.com/machinecc/machinecc.github.io/master/images/avatar.jpg
-favicon: http://7u2ho6.com1.z0.glb.clouddn.com/site-favicon.ico
+favicon: https://raw.githubusercontent.com/machinecc/machinecc.github.io/master/images/favorite.ico
 
 # google analytics 设置
 ga:
