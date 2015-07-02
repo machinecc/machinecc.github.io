@@ -7,16 +7,15 @@ kramdown:
 
 # 作者信息
 author: 
-  name: 闫肃
-  email: suyan0830@gmail.com
-  link: http://yansu.org
-  weibo: http://weibo.com/yansu0711
-  github: http://github.com/suyan
+  name: Xin Miao
+  email: machine.miao@gmail.com
+  link: http://machinecc.github.io
+  github: http://github.com/machinecc
 
 # 站点信息
-title: 闫肃的博客 
+title: Xin 
 description: 闫肃的博客
-url: http://yansu.org
+url: http://machinecc.github.io
 rss_url: /pages/atom.xml
 
 # avatar头像及Favicon
