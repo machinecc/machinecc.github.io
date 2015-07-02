@@ -1,6 +1,6 @@
 ### 我的博客
 
-地址：[http://yansu.org](http://yansu.org)
+地址：[http://machinecc.github.io](http://machinecc.github.io)
 
 ### 安装说明
 
@@ -16,3 +16,11 @@
 - 三栏布局（master分支，基于[3-Jekyll](https://github.com/P233/3-Jekyll)）
 - 三栏布局 (bootstrap-based分支，基于Bootstrap)
 - 单栏布局（first-ui分支，基于Bootstrap）
+
+### 致谢
+
+- 3-Jekyll的作者[Peiwen Lu](http://peiwen.lu/)
+- 库的原博主[Su Yan](http://yansu.org)
+
+
+
