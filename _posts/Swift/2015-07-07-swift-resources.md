@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Swift 常用库
-tag: Swift
+category: 移动开发
 keywords: Swift, 常用库
 ---
 
