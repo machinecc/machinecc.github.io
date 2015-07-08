@@ -28,7 +28,8 @@ ga:
   url: http://machinecc.github.io
 
 # disqus 设置
-disqus:
-  shortname: machinecc_github
-
+comments:
+  provider: duoshuo
+  duoshuo:
+    short_name: machinecc
 
