@@ -25,7 +25,7 @@ favicon: https://raw.githubusercontent.com/machinecc/machinecc.github.io/master/
 # google analytics 设置
 ga:
   id: UA-64742203-1
-  url: http://machinecc.github.com
+  url: http://machinecc.github.io
 
 # disqus 设置
 disqus:
