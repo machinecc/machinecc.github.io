@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Swift 常用库
-category: iOS Swift
+tag: Swift
 keywords: Swift, 常用库
 ---
 
