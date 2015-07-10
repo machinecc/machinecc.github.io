@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Swift 组件：MXImagesInfiniteScrollView
+title: Swift 控件：MXImagesInfiniteScrollView
 category: 移动开发
 keywords: Swift, 控件
 ---
