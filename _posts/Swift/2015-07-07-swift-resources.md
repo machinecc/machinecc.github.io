@@ -14,3 +14,7 @@ keywords: Swift, 常用库
 - 提供与 SDWebImage 的类似的功能，基于 Swift 实现
 - 项目链接: [https://github.com/kiavashfaisali/KFSwiftImageLoader](https://github.com/kiavashfaisali/KFSwiftImageLoader)
 
+
+### VVBlurPresentation
+- 显示新的 ViewController，同时使得之前 ViewController 以模糊效果呈现
+- 项目链接: [https://github.com/onevcat/VVBlurPresentation](https://github.com/onevcat/VVBlurPresentation)
